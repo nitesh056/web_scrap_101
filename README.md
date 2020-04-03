@@ -3,8 +3,8 @@
 Scraping imdb top movies
 
 ## Install
-clone this repo
-cd to web_scrap_101
-create your virtualenv and activate it
-pip install -r requirements.txt
-run index.py with python
+1. clone this repo
+2. cd to web_scrap_101
+3. create your virtualenv and activate it
+4. pip install -r requirements.txt
+5. run index.py with python
